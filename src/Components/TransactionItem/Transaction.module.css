@@ -1,0 +1,9 @@
+.transaction-item {
+  height: 50px;
+  text-align: center;
+  color: #797d80;
+  text-transform: capitalize;
+}
+.transaction-item:nth-of-type(even) {
+  background-color: white;
+}
